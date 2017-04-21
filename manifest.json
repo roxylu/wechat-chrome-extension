@@ -3,7 +3,6 @@
   "name": "Wechat",
   "author": "Roxy Lu",
   "description": "Wechat Chrome App",
-  "version": "1.0.0"
   "icons": {
       "128": "images/icon_128.png",
       "16": "images/icon_16.png"
@@ -15,4 +14,5 @@
    },
    "minimum_chrome_version": "37.0",
    "permissions": [ "notifications", "webview", "clipboardRead", "clipboardWrite", "contextMenus", "fileSystem", "geolocation", "storage", "tts", "unlimitedStorage" ],
+  "version": "1.0.0"
 }
